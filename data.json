@@ -1,0 +1,722 @@
+[
+    {
+        "clave": "0",
+        "descripcion": "Leche",
+        "precio": 10.55,
+        "clasificacion": "basico",
+        "cantidad": 40,
+        "minima": 17,
+        "maxima": 50
+    },
+    {
+        "clave": "1",
+        "descripcion": "Manzana",
+        "precio": 10.55,
+        "clasificacion": "fruta",
+        "cantidad": 55,
+        "minima": 10,
+        "maxima": 100
+    },
+    {
+        "clave": "2",
+        "descripcion": "Atun",
+        "precio": 13.45,
+        "clasificacion": "no perecedero",
+        "cantidad": 47,
+        "minima": 36,
+        "maxima": 150
+    },
+    {
+        "clave": "3",
+        "descripcion": "Arroz",
+        "precio": 17.68,
+        "clasificacion": "no perecedero",
+        "cantidad": 67,
+        "minima": 53,
+        "maxima": 100
+    },
+    {
+        "clave": "4",
+        "descripcion": "Frijol",
+        "precio": 17.11,
+        "clasificacion": "no perecedero",
+        "cantidad": 50,
+        "minima": 1,
+        "maxima": 130
+    },
+    {
+        "clave": "5",
+        "descripcion": "Pan",
+        "precio": 21.59,
+        "clasificacion": "basico",
+        "cantidad": 62,
+        "minima": 15,
+        "maxima": 146
+    },
+    {
+        "clave": "6",
+        "descripcion": "Cilantro",
+        "precio": 10.15,
+        "clasificacion": "vegetal",
+        "cantidad": 25,
+        "minima": 15,
+        "maxima": 30
+    },
+    {
+        "clave": "7",
+        "descripcion": "Espinacas",
+        "precio": 25.31,
+        "clasificacion": "vegetal",
+        "cantidad": 20,
+        "minima": 10,
+        "maxima": 30
+    },
+    {
+        "clave": "8",
+        "descripcion": "Pera",
+        "precio": 15.83,
+        "clasificacion": "fruta",
+        "cantidad": 43,
+        "minima": 30,
+        "maxima": 100
+    },
+    {
+        "clave": "9",
+        "descripcion": "Fresa",
+        "precio": 10.15,
+        "clasificacion": "fruta",
+        "cantidad": 50,
+        "minima": 50,
+        "maxima": 70
+    },
+    {
+        "clave": "10",
+        "descripcion": "Sal",
+        "precio": 16.23,
+        "clasificacion": "no perecedero",
+        "cantidad": 22,
+        "minima": 30,
+        "maxima": 50
+    },
+    {
+        "clave": "11",
+        "descripcion": "Zanahoria",
+        "precio": 14.77,
+        "clasificacion": "vegetal",
+        "cantidad": 35,
+        "minima": 25,
+        "maxima": 71
+    },
+    {
+        "clave": "12",
+        "descripcion": "Calabaza",
+        "precio": 16.3,
+        "clasificacion": "vegetal",
+        "cantidad": 58,
+        "minima": 48,
+        "maxima": 155
+    },
+    {
+        "clave": "13",
+        "descripcion": "Platano",
+        "precio": 13.02,
+        "clasificacion": "fruta",
+        "cantidad": 70,
+        "minima": 15,
+        "maxima": 149
+    },
+    {
+        "clave": "14",
+        "descripcion": "Brocoli",
+        "precio": 28.79,
+        "clasificacion": "vegetal",
+        "cantidad": 26,
+        "minima": 15,
+        "maxima": 58
+    },
+    {
+        "clave": "15",
+        "descripcion": "Baked stuffed portabello mushrooms",
+        "precio": 20.31,
+        "clasificacion": "no perecedero",
+        "cantidad": 58,
+        "minima": 25,
+        "maxima": 127
+    },
+    {
+        "clave": "16",
+        "descripcion": "Strawberry jelly",
+        "precio": 14.18,
+        "clasificacion": "fruta",
+        "cantidad": 64,
+        "minima": 59,
+        "maxima": 133
+    },
+    {
+        "clave": "17",
+        "descripcion": "Pears juice",
+        "precio": 19.49,
+        "clasificacion": "fruta",
+        "cantidad": 47,
+        "minima": 34,
+        "maxima": 112
+    },
+    {
+        "clave": "18",
+        "descripcion": "Fresh pears",
+        "precio": 15.12,
+        "clasificacion": "fruta",
+        "cantidad": 74,
+        "minima": 4,
+        "maxima": 185
+    },
+    {
+        "clave": "19",
+        "descripcion": "Caprese salad",
+        "precio": 16.76,
+        "clasificacion": "vegetal",
+        "cantidad": 14,
+        "minima": 7,
+        "maxima": 40
+    },
+    {
+        "clave": "20",
+        "descripcion": "Oranges",
+        "precio": 21.48,
+        "clasificacion": "fruta",
+        "cantidad": 69,
+        "minima": 25,
+        "maxima": 157
+    },
+    {
+        "clave": "21",
+        "descripcion": "Vegan food",
+        "precio": 29.66,
+        "clasificacion": "vegetal",
+        "cantidad": 75,
+        "minima": 67,
+        "maxima": 151
+    },
+    {
+        "clave": "22",
+        "descripcion": "Huevo",
+        "precio": 22.7,
+        "clasificacion": "basico",
+        "cantidad": 29,
+        "minima": 30,
+        "maxima": 100
+    },
+    {
+        "clave": "23",
+        "descripcion": "Aceite",
+        "precio": 17.01,
+        "clasificacion": "no perecedero",
+        "cantidad": 53,
+        "minima": 23,
+        "maxima": 124
+    },
+    {
+        "clave": "24",
+        "descripcion": "Naranja",
+        "precio": 14.05,
+        "clasificacion": "fruta",
+        "cantidad": 49,
+        "minima": 29,
+        "maxima": 98
+    },
+    {
+        "clave": "25",
+        "descripcion": "Limon",
+        "precio": 28.86,
+        "clasificacion": "fruta",
+        "cantidad": 80,
+        "minima": 64,
+        "maxima": 195
+    },
+    {
+        "clave": "26",
+        "descripcion": "Papaya",
+        "precio": 26.21,
+        "clasificacion": "fruta",
+        "cantidad": 30,
+        "minima": 11,
+        "maxima": 50
+    },
+    {
+        "clave": "27",
+        "descripcion": "Agua",
+        "precio": 27.81,
+        "clasificacion": "basico",
+        "cantidad": 76,
+        "minima": 23,
+        "maxima": 188
+    },
+    {
+        "clave": "28",
+        "descripcion": "Cafe",
+        "precio": 18.5,
+        "clasificacion": "no perecedero",
+        "cantidad": 25,
+        "minima": 20,
+        "maxima": 73
+    },
+    {
+        "clave": "29",
+        "descripcion": "Crema dental",
+        "precio": 29.97,
+        "clasificacion": "basico",
+        "cantidad": 51,
+        "minima": 37,
+        "maxima": 124
+    },
+    {
+        "clave": "30",
+        "descripcion": "Papel higienico",
+        "precio": 25.26,
+        "clasificacion": "basico",
+        "cantidad": 59,
+        "minima": 46,
+        "maxima": 163
+    },
+    {
+        "clave": "31",
+        "descripcion": "Guisantes",
+        "precio": 27.61,
+        "clasificacion": "vegetal",
+        "cantidad": 21,
+        "minima": 30,
+        "maxima": 80
+    },
+    {
+        "clave": "32",
+        "descripcion": "Ajo",
+        "precio": 22.48,
+        "clasificacion": "vegetal",
+        "cantidad": 38,
+        "minima": 20,
+        "maxima": 114
+    },
+    {
+        "clave": "33",
+        "descripcion": "Sandia",
+        "precio": 14.35,
+        "clasificacion": "fruta",
+        "cantidad": 23,
+        "minima": 10,
+        "maxima": 30
+    },
+    {
+        "clave": "34",
+        "descripcion": "Cebolla",
+        "precio": 22.97,
+        "clasificacion": "vegetal",
+        "cantidad": 17,
+        "minima": 30,
+        "maxima": 85
+    },
+    {
+        "clave": "35",
+        "descripcion": "Elote",
+        "precio": 13.55,
+        "clasificacion": "vegetal",
+        "cantidad": 43,
+        "minima": 18,
+        "maxima": 50
+    },
+    {
+        "clave": "36",
+        "descripcion": "Coliflor",
+        "precio": 28.96,
+        "clasificacion": "vegetal",
+        "cantidad": 9,
+        "minima": 6,
+        "maxima": 21
+    },
+    {
+        "clave": "37",
+        "descripcion": "Crema hidratante",
+        "precio": 21.01,
+        "clasificacion": "basico",
+        "cantidad": 36,
+        "minima": 24,
+        "maxima": 53
+    },
+    {
+        "clave": "38",
+        "descripcion": "Jabon en barra",
+        "precio": 25.88,
+        "clasificacion": "basico",
+        "cantidad": 40,
+        "minima": 30,
+        "maxima": 100
+    },
+    {
+        "clave": "39",
+        "descripcion": "Carne de cerdo",
+        "precio": 35.18,
+        "clasificacion": "carne",
+        "cantidad": 43,
+        "minima": 38,
+        "maxima": 115
+    },
+    {
+        "clave": "40",
+        "descripcion": "Jabon en polvo",
+        "precio": 21.32,
+        "clasificacion": "basico",
+        "cantidad": 26,
+        "minima": 22,
+        "maxima": 73
+    },
+    {
+        "clave": "41",
+        "descripcion": "Frituras",
+        "precio": 27.14,
+        "clasificacion": "snack",
+        "cantidad": 78,
+        "minima": 77,
+        "maxima": 184
+    },
+    {
+        "clave": "42",
+        "descripcion": "Chocolate",
+        "precio": 19.18,
+        "clasificacion": "snack",
+        "cantidad": 26,
+        "minima": 9,
+        "maxima": 54
+    },
+    {
+        "clave": "43",
+        "descripcion": "Sardinas",
+        "precio": 18.32,
+        "clasificacion": "no perecedero",
+        "cantidad": 30,
+        "minima": 15,
+        "maxima": 61
+    },
+    {
+        "clave": "44",
+        "descripcion": "Avena",
+        "precio": 15.13,
+        "clasificacion": "basico",
+        "cantidad": 38,
+        "minima": 29,
+        "maxima": 80
+    },
+    {
+        "clave": "45",
+        "descripcion": "Carne de res",
+        "precio": 11.73,
+        "clasificacion": "carne",
+        "cantidad": 46,
+        "minima": 34,
+        "maxima": 117
+    },
+    {
+        "clave": "46",
+        "descripcion": "Pollo",
+        "precio": 26.03,
+        "clasificacion": "carne",
+        "cantidad": 18,
+        "minima": 18,
+        "maxima": 45
+    },
+    {
+        "clave": "47",
+        "descripcion": "Detergente",
+        "precio": 15.19,
+        "clasificacion": "basico",
+        "cantidad": 25,
+        "minima": 1,
+        "maxima": 54
+    },
+    {
+        "clave": "48",
+        "descripcion": "Lentejas",
+        "precio": 18.18,
+        "clasificacion": "no perecedero",
+        "cantidad": 25,
+        "minima": 30,
+        "maxima": 86
+    },
+    {
+        "clave": "49",
+        "descripcion": "Paleta",
+        "precio": 5.62,
+        "clasificacion": "snack",
+        "cantidad": 26,
+        "minima": 30,
+        "maxima": 92
+    },
+    {
+        "clave": "50",
+        "descripcion": "Chorizo",
+        "precio": 28.1,
+        "clasificacion": "carne",
+        "cantidad": 58,
+        "minima": 17,
+        "maxima": 159
+    },
+    {
+        "clave": "51",
+        "descripcion": "Manzana verde",
+        "precio": 29.45,
+        "clasificacion": "fruta",
+        "cantidad": 14,
+        "minima": 10,
+        "maxima": 41
+    },
+    {
+        "clave": "52",
+        "descripcion": "Cacahuate",
+        "precio": 18.95,
+        "clasificacion": "snack",
+        "cantidad": 47,
+        "minima": 36,
+        "maxima": 115
+    },
+    {
+        "clave": "53",
+        "descripcion": "Pan dulce",
+        "precio": 17.68,
+        "clasificacion": "snack",
+        "cantidad": 77,
+        "minima": 53,
+        "maxima": 197
+    },
+    {
+        "clave": "54",
+        "descripcion": "Cepillo de dientes",
+        "precio": 17.11,
+        "clasificacion": "basico",
+        "cantidad": 2,
+        "minima": 1,
+        "maxima": 6
+    },
+    {
+        "clave": "55",
+        "descripcion": "Tortilla",
+        "precio": 11.14,
+        "clasificacion": "basico",
+        "cantidad": 62,
+        "minima": 15,
+        "maxima": 146
+    },
+    {
+        "clave": "56",
+        "descripcion": "Dulces",
+        "precio": 18.19,
+        "clasificacion": "snack",
+        "cantidad": 15,
+        "minima": 1,
+        "maxima": 34
+    },
+    {
+        "clave": "57",
+        "descripcion": "Elote en lata",
+        "precio": 27.35,
+        "clasificacion": "no perecedero",
+        "cantidad": 12,
+        "minima": 19,
+        "maxima": 37
+    },
+    {
+        "clave": "58",
+        "descripcion": "Leche en polvo",
+        "precio": 28.59,
+        "clasificacion": "no perecedero",
+        "cantidad": 43,
+        "minima": 23,
+        "maxima": 129
+    },
+    {
+        "clave": "59",
+        "descripcion": "Melon",
+        "precio": 15.79,
+        "clasificacion": "fruta",
+        "cantidad": 14,
+        "minima": 7,
+        "maxima": 20
+    },
+    {
+        "clave": "60",
+        "descripcion": "Tocino",
+        "precio": 17.48,
+        "clasificacion": "carne",
+        "cantidad": 22,
+        "minima": 12,
+        "maxima": 46
+    },
+    {
+        "clave": "61",
+        "descripcion": "Jamon",
+        "precio": 14.77,
+        "clasificacion": "carne",
+        "cantidad": 35,
+        "minima": 25,
+        "maxima": 71
+    },
+    {
+        "clave": "62",
+        "descripcion": "Semillas de girasol",
+        "precio": 16.3,
+        "clasificacion": "snack",
+        "cantidad": 58,
+        "minima": 24,
+        "maxima": 60
+    },
+    {
+        "clave": "63",
+        "descripcion": "Mermelada",
+        "precio": 13.02,
+        "clasificacion": "no perecedero",
+        "cantidad": 70,
+        "minima": 15,
+        "maxima": 149
+    },
+    {
+        "clave": "64",
+        "descripcion": "Aceitunas",
+        "precio": 28.79,
+        "clasificacion": "no perecedero",
+        "cantidad": 26,
+        "minima": 15,
+        "maxima": 58
+    },
+    {
+        "clave": "65",
+        "descripcion": "Miel",
+        "precio": 20.31,
+        "clasificacion": "no perecedero",
+        "cantidad": 58,
+        "minima": 25,
+        "maxima": 127
+    },
+    {
+        "clave": "66",
+        "descripcion": "Vinagre",
+        "precio": 14.18,
+        "clasificacion": "no perecedero",
+        "cantidad": 64,
+        "minima": 59,
+        "maxima": 133
+    },
+    {
+        "clave": "67",
+        "descripcion": "Sopa en lata",
+        "precio": 19.49,
+        "clasificacion": "no perecedero",
+        "cantidad": 47,
+        "minima": 34,
+        "maxima": 112
+    },
+    {
+        "clave": "68",
+        "descripcion": "Toronja",
+        "precio": 15.12,
+        "clasificacion": "fruta",
+        "cantidad": 74,
+        "minima": 4,
+        "maxima": 185
+    },
+    {
+        "clave": "69",
+        "descripcion": "Piña",
+        "precio": 16.76,
+        "clasificacion": "fruta",
+        "cantidad": 14,
+        "minima": 7,
+        "maxima": 40
+    },
+    {
+        "clave": "70",
+        "descripcion": "Mango",
+        "precio": 21.48,
+        "clasificacion": "fruta",
+        "cantidad": 69,
+        "minima": 25,
+        "maxima": 157
+    },
+    {
+        "clave": "71",
+        "descripcion": "Lechuga",
+        "precio": 29.66,
+        "clasificacion": "vegetal",
+        "cantidad": 75,
+        "minima": 67,
+        "maxima": 151
+    },
+    {
+        "clave": "72",
+        "descripcion": "Uvas",
+        "precio": 22.7,
+        "clasificacion": "basico",
+        "cantidad": 40,
+        "minima": 30,
+        "maxima": 84
+    },
+    {
+        "clave": "73",
+        "descripcion": "Limon sin semilla",
+        "precio": 17.01,
+        "clasificacion": "fruta",
+        "cantidad": 53,
+        "minima": 23,
+        "maxima": 124
+    },
+    {
+        "clave": "74",
+        "descripcion": "Lima",
+        "precio": 14.05,
+        "clasificacion": "fruta",
+        "cantidad": 49,
+        "minima": 29,
+        "maxima": 98
+    },
+    {
+        "clave": "75",
+        "descripcion": "Fruta deshidratada",
+        "precio": 28.86,
+        "clasificacion": "no perecedero",
+        "cantidad": 80,
+        "minima": 64,
+        "maxima": 195
+    },
+    {
+        "clave": "76",
+        "descripcion": "Guayaba",
+        "precio": 26.21,
+        "clasificacion": "fruta",
+        "cantidad": 32,
+        "minima": 11,
+        "maxima": 43
+    },
+    {
+        "clave": "77",
+        "descripcion": "Durazno",
+        "precio": 27.81,
+        "clasificacion": "fruta",
+        "cantidad": 76,
+        "minima": 23,
+        "maxima": 88
+    },
+    {
+        "clave": "78",
+        "descripcion": "Rambutan",
+        "precio": 18.5,
+        "clasificacion": "fruta",
+        "cantidad": 25,
+        "minima": 32,
+        "maxima": 73
+    },
+    {
+        "clave": "79",
+        "descripcion": "Papa",
+        "precio": 29.97,
+        "clasificacion": "vegetal",
+        "cantidad": 51,
+        "minima": 37,
+        "maxima": 124
+    }
+]
